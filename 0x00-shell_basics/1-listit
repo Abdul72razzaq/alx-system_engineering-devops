@@ -1,2 +1,2 @@
  #!/bin/bash
-echo README.md + 0-current_working_directory + 1-listit
+su README.md + 0-current_working_directory + 1-listit
